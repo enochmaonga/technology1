@@ -1,5 +1,2 @@
-package Models;
-
-public class Post {
-
+package Models;public class Post {
 }

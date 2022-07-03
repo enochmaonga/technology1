@@ -2,13 +2,16 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import org.juuni.
-public class PostTest {
-public class Maintainance<Itsupport> {
 
+public class PostTest {
+public class Technologydivision<Maintainance> {
+
+}
+    private static String Maintainance;
+    String name = new String("Maintainance");
+    String string = Maintainance ="Masmau Joyce, Albois Wayne, Joseph Kombo, Superman Omondi, Edda Boyne";
 
     private static String ITSuport;
-
     String name = new String("ITsupport");
     String Itsupport   ="Kennedy Kenj, Edna White, Raphael Wheles, Joyce Mungai Adriel Isensi";
 
